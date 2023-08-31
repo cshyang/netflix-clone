@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 ## About the project
 
-This is a React.js frontend project to clone the Netflix fronted with TMDB API.
+This is a React.js frontend project to clone the Netflix fronted with TMDB API. 
+The result of this clone website is hosted on Netlify https://netflix-clone-4c05e.web.app/
+
+![Uploading image.png…]()
+
 
 ## Getting started
 
