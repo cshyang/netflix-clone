@@ -4,7 +4,6 @@ This is a React.js frontend project to clone the Netflix fronted with TMDB API.
 The result of this clone website is hosted on Netlify https://netflix-clone-4c05e.web.app/
 
 <img width="1422" alt="image" src="https://github.com/cshyang/netflix-clone/assets/45311586/95494d0e-039f-47ee-8ef2-50ae90b5f4a2">
-![Uploading netflix_clone_screenshot.png…]()
 
 
 
